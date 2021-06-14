@@ -1,0 +1,34 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdacityChallenge2-Solution"
+    },
+    {
+        "ParameterKey": "VpcCIDR",
+        "ParameterValue": "10.0.0.0/16"
+    },
+    {
+        "ParameterKey": "PublicSubnetName",
+        "ParameterValue": "Public"
+    },
+    {
+        "ParameterKey": "PrivateSubnetName",
+        "ParameterValue": "Private"
+    },
+    {
+        "ParameterKey": "PublicSubnetCIDR",
+        "ParameterValue": "10.0.1.0/24"
+    },
+    {
+        "ParameterKey": "PrivateSubnetCIDR",
+        "ParameterValue": "10.0.2.0/24"
+    },
+    {
+        "ParameterKey": "PublicRouteTableName",
+        "ParameterValue": "Public"
+    },
+    {
+        "ParameterKey": "PrivateRouteTableName",
+        "ParameterValue": "Private"
+    }
+]
